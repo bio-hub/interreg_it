@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Interreg Descrizione dei Servizi di Dermatologia</title>
-    <link>davinci.biohub.solutions/interreg/</link>
+    <link>davinci.biohub.solutions/interreg_it/</link>
     <description>Recent content on Interreg Descrizione dei Servizi di Dermatologia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
-	<atom:link href="davinci.biohub.solutions/interreg/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="davinci.biohub.solutions/interreg_it/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
